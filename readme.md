@@ -73,7 +73,8 @@ Below are a few examples of generated plots (replace with your screenshots):
 ### 🔹 Option 1: Open in Google Colab
 Click the badge below to launch instantly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/drive/1fZYySjAE8Vf9tSiycKzfLavPdefrKRNw)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fZYySjAE8Vf9tSiycKzfLavPdefrKRNw?usp=sharing)
+
 
 ### 🔹 Option 2: Run Locally
 ```bash
